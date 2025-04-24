@@ -1,4 +1,4 @@
-# Z-DNA Genomic Analysis Pipeline
+# Z-DNA Genomic Analysis Pipeline 
 
 A comprehensive pipeline for analyzing Z-DNA regions in genomic data, including interval generation, perturbation testing, VCF annotation, mutation concentration calculation, and sequence generation from mutations.
 
